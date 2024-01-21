@@ -407,10 +407,13 @@ button{
     border-radius: 10px;
     vertical-align: top;
     padding: 10px;
+    padding-bottom: 40px;
     margin-left: -300px;
     font-weight: bold;    
     transition: all .3s ease-out;
+    margin-bottom: 50px;
     }
+    
 
 .menu-items{
     background-color:#FF746B;
