@@ -34,6 +34,9 @@ body{
 #art{
     background-image: url("../media/ArtExamples/image\ \(3\).png");
 }
+#contact{
+    background-image: url(../media/ArtExamples/portraitasdg.png);
+}
 a{
     text-decoration: none;
 }
